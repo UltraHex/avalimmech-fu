@@ -5,7 +5,7 @@ For general information not regarding source, check out the steam workshop [page
 ### XS or/and FU Patch?
 
 Do __NOT__ use both. If you have Frackin' Universe installed, there is no need to install XS Mechs: Modular Edition or the XS Patch, simply use the
-FU patch. If you __do not have Frackin' Universe__ and __do have XS:MME__ then install the XS Patch. Any other case, don't install any patch.
+FU patch. If you __do not have Frackin' Universe__ and __do have XS:ME__ then install the XS Patch. In any other case, don't install any patch.
 
 ### Issues
 
