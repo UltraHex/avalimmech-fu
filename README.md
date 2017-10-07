@@ -1,6 +1,11 @@
-# Avali Modular Mech XS Patch
+# Avali Modular Mech FU Patch
 
 For general information not regarding source, check out the steam workshop [page](http://steamcommunity.com/sharedfiles/filedetails/?id=955827258) and the discussions.
+
+### XS or/and FU Patch?
+
+Do __NOT__ use both. If you have Frackin' Universe installed, there is no need to install XS Mechs: Modular Edition or the XS Patch, simply use the
+FU patch. If you __do not have Frackin' Universe__ and __do have XS:MME__ then install the XS Patch. Any other case, don't install any patch.
 
 ### Issues
 
