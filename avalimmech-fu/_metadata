@@ -1,0 +1,9 @@
+{
+  "author" : "Wolf",
+  "friendlyName" : "Avali Modular Mech FU Patch",
+  "includes" : ["mechavali", "FrackinUniverse"],
+  "link" : "steam://url/CommunityFilePage/1161680425",
+  "name" : "avalimech-fu",
+  "steamContentId" : "1161680425",
+  "version" : "1.0.0"
+}
