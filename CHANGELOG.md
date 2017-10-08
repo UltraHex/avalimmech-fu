@@ -6,14 +6,5 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
-## [0.2.0] - 2017-07-03
-### Added
-- Magic colors!
-
-## [0.1.1] - 2017-06-25
-### Fixed
-- Fix leg sprites. Some had runaway pixels.
-
-## [0.1.0] - 2017-06-25
-### Added
-- Three new XS legs 
+## [1.0.0] - 2017-07-03
+- Initial Release
