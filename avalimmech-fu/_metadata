@@ -1,5 +1,6 @@
 {
   "author" : "Wolf",
+  "description" : "Frackin' Universe Patch for the Avali Modular Mech\n\n[h1][u]Overview[/u][/h1]\nAdds compatability for Frackin' Universe. Changes are similar to the XS Patch. Expect minor differences (mostly stat stuff, but that isn't actually implemented yet).\n\nFor development fancies check out the trello dev [url=https://trello.com/b/8Q6cz3NZ][b]board[/b][/url]\n\n[h1][u]Other Fancies[/u][/h1]\nCheck out the Vanilla [url=https://steamcommunity.com/sharedfiles/filedetails/?id=950340366][b]version[/b][/url] for more fancies to fancy your fancies.\n\n[h1][u]Reporting Issues (Howto)[/u][/h1]\nIf the problem is simple or you're not sure what could be wrong, leave a comment. If you've got more details then post in the discussions on [b]this mod page[/b] or use the [url=https://github.com/aero-sb/avalimmech-fu/issues][b]issue tracker on github[/b][/url]. If you're unsure if the issue(s) is related to this patch or just a problem with the vanilla version, post on the vanilla discussions.\n\n[h1][u]FAQ Coming Soon to a Hologram Near You[/u][/h1]",
   "friendlyName" : "Avali Modular Mech FU Patch",
   "includes" : ["mechavali", "FrackinUniverse"],
   "link" : "steam://url/CommunityFilePage/1161680425",
