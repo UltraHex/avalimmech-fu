@@ -4,7 +4,7 @@
 		"path" : "/mechlegsnaeroa",
 		"value" : {
 			"stats" : {
-				"speed" : 6,
+				"speed" : 5,
 				"jump" :6
 			},
 			"partParameters" : {},
@@ -45,7 +45,7 @@
 		"path" : "/mechlegsnaeroap",
 		"value" : {
 			"stats" : {
-				"speed" : 6,
+				"speed" : 5,
 				"jump" :6
 			},
 			"partParameters" : {},
@@ -86,7 +86,7 @@
 		"path" : "/mechlegsnaeroan",
 		"value" : {
 			"stats" : {
-				"speed" : 6,
+				"speed" : 5,
 				"jump" :6
 			},
 			"partParameters" : {},
